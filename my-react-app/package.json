@@ -1,6 +1,7 @@
 {
   "name": "my-react-app",
   "version": "0.1.0",
+   "homepage": "https://sabrynahancock.github.io/kcultura/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
