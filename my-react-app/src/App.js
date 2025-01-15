@@ -27,7 +27,6 @@ function App() {
             <ScrollLink to="sobrenos" smooth={true} duration={500}>
               SOBRE NOS
             </ScrollLink>
-
           </div>
         </div>
       </nav>
@@ -66,7 +65,6 @@ function App() {
           </button>
         </div>
       </Element>
-
 
       <footer className="footer"> {/* Footer */}
         <div className="social-media-links">
